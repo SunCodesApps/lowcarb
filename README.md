@@ -1,6 +1,14 @@
 # LowCarbTech: Seu Portal para um Futuro Sustentável
+## Alura - Imersão Dev com Google Gemini
 
 **Descubra as tecnologias que estão moldando um futuro mais verde!**
+
+## Acesse o Site
+
+Para explorar o LowCarbTech e descobrir as últimas novidades sobre tecnologias sustentáveis, visite:
+
+https://lowcarb-flax.vercel.app/
+
 
 ## O que é o LowCarbTech?
 
@@ -41,3 +49,5 @@ Quer ajudar a tornar o LowCarbTech ainda melhor? Seja bem-vindo! Você pode:
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
+
+## Acesse o site pelo link:
