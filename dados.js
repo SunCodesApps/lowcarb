@@ -12,12 +12,6 @@ const dados = [
     tags: "energia renovável, eólica, vento, eletricidade, sustentabilidade"
   },
   {
-    titulo: "Energia Hidrelétrica",
-    descricao: "Aproveitamento da força da água para gerar eletricidade. Uma fonte de energia renovável, mas com impactos ambientais que devem ser mitigados.",
-    link: "https://www.abradee.org.br/", // Associação Brasileira de Energia Elétrica
-    tags: "energia renovável, hidrelétrica, água, eletricidade, sustentabilidade, impacto ambiental"
-  },
-  {
     titulo: "Energia Geotérmica",
     descricao: "Aproveitamento do calor interno da Terra para gerar eletricidade ou aquecimento. Uma fonte de energia renovável e baseada em um recurso praticamente inesgotável.",
     link: "https://www.abgeotermica.org.br/", // Associação Brasileira de Energia Geotérmica
