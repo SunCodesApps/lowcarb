@@ -1,5 +1,5 @@
 # LowCarbTech: Seu Portal para um Futuro Sustentável
-## Desenvolvido para o curso Alura - Imersão Dev com Google Gemini
+**Desenvolvido para o curso Alura - Imersão Dev com Google Gemini**
 
 **Descubra as tecnologias que estão moldando um futuro mais verde!**
 
@@ -49,5 +49,3 @@ Quer ajudar a tornar o LowCarbTech ainda melhor? Seja bem-vindo! Você pode:
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
-
-## Acesse o site pelo link:
