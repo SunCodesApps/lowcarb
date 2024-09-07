@@ -1,11 +1,15 @@
 /* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:ital,wght@0,400;1,500&display=swap');
 
 /* Define o estilo geral da página */
-body {
-  font-family: Arial, sans-serif; /* Define a fonte padrão */
-  margin: 0; /* Remove as margens padrão do corpo */
-  padding: 0; /* Remove o preenchimento padrão do corpo */
-  background-color: #f5f5f5; /* Define a cor de fundo do corpo */
+html, body {
+  font-family: 'Roboto', sans-serif; /* Define a fonte padrão como Roboto */
+  height: 100%; /* Define a altura total de ambos (html e body) como 100% da altura da viewport */
+  margin: 0; /* Remove a margem padrão do body */
+  padding: 0; /* Remove o padding padrão do body */
+  display: flex; /* Torna o body um contêiner flexível (Flexbox) */
+  flex-direction: column; /* Organiza os filhos do body verticalmente (coluna) */
+
 }
 
 /* Estiliza o cabeçalho da página */
@@ -14,6 +18,13 @@ header {
   color: #fff; /* Define a cor do texto do cabeçalho */
   text-align: center; /* Alinha o texto do cabeçalho ao centro */
   padding: 2rem; /* Adiciona espaço interno ao cabeçalho */
+}
+
+main {
+  flex: 1;
+}
+h1, h2 {
+  font-family: 'Montserrat', sans-serif; /* Define as fontes para os títulos */
 }
 
 /* Estiliza a seção de resultados da pesquisa */
@@ -63,7 +74,7 @@ header {
 /* Estiliza o rodapé da página */
 footer {
   background-color: #f0f0f0; /* Define a cor de fundo do rodapé */
-  text-align: center; /* Alinha o texto do rodapé ao centro */
+  text-align: center; /* Centraliza o texto dentro do rodapé */
   padding: 1rem; /* Adiciona espaço interno ao rodapé */
 }
 
