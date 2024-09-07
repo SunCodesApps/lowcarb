@@ -2,7 +2,7 @@ const dados = [
   {
     titulo: "Energia Solar Fotovoltaica",
     descricao: "Conversão direta da luz solar em eletricidade através de painéis solares. Uma das fontes de energia renovável mais utilizadas e com custos em constante queda.",
-    link: "https://www.abener.org.br/", // Associação Brasileira de Energia Solar Fotovoltaica
+    link: "https://www.absolar.org.br/", // Associação Brasileira de Energia Solar Fotovoltaica
     tags: "energia renovável, solar, fotovoltaica, sustentabilidade, eletricidade"
   },
   {
