@@ -1,7 +1,7 @@
 # LowCarbTech: Seu Portal para um Futuro Sustentável
 **Desenvolvido para o curso Alura - Imersão Dev com Google Gemini**
 
-**Descubra as tecnologias que estão moldando um futuro mais verde!**
+## Descubra as tecnologias que estão moldando um futuro mais verde!**
 
 ## Acesse o Site
 
